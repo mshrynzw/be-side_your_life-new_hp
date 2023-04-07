@@ -1,22 +1,32 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
-  language: 'en-us',
+  title: 'Be-Side Your Life !!',
+  author: 'Be-Side Your Life !!',
+  headerTitle: 'Be-Side Your Life !!',
+  description: `
+    ラジオを中心に活動する３人の放送作家、石川昭人･ホンマトシヒコ･ぶるんぶるん平田、
+    そして、３人の仕事仲間であるラジオディレクターの生江龍太郎、
+    小林順(コバジュン)･稲垣典行(イナーキー)による、“インターネット放送局で”す！
+    
+    2006年05月から、ポッドキャスティング(※)番組
+    『石川･ホンマ･ぶるんのBe-Side Your Life！』(通称:ビーサイ)の配信を開始し、
+    2009年からは、『ビーサイ』の番組テイストを発展させた
+    映像コンテンツ『ビーサイTV』を配信を開始します！
+    
+    ※「ポッドキャスティング」とは、パソコンさえあれば、いつでも誰でも聴ける、いわば「ラジオ番組」！
+    パソコンだけでなく、iPodなどの音声ファイルプレーヤーでも
+    お好きな時間にお好きな場所で、『ビーサイ』をお楽しみ頂けます！
+  `,
+  language: 'ja',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://be-side-your-life.com',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  email: 'biho@be-side.jp',
+  twitter: 'https://twitter.com/be_side_jp',
+  youtube: 'https://www.youtube.com/user/besidetv',
+  locale: 'ja',
+  // TODO EDIT
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
