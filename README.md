@@ -141,7 +141,7 @@ npx degit https://github.com/timlrx/tailwind-nextjs-starter-blog.git
 ## Installation
 
 ```bash
-npm install
+yarn
 ```
 
 ## Development
@@ -149,13 +149,7 @@ npm install
 First, run the development server:
 
 ```bash
-npm start
-```
-
-or
-
-```bash
-npm run dev
+yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
