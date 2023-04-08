@@ -1,4 +1,4 @@
-const projectsData = [
+const programsData = [
   {
     title: 'A Search Engine',
     description: `What if you could look up any information in the world? Webpages, images, videos
@@ -17,4 +17,4 @@ const projectsData = [
   },
 ]
 
-export default projectsData
+export default programsData
