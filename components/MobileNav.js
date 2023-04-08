@@ -18,7 +18,7 @@ const MobileNav = () => {
   }
 
   return (
-    <div className="sm:hidden">
+    <div className="h-12 w-12 rounded border-2 border-gray-900 dark:border-gray-100 sm:hidden">
       <button
         type="button"
         className="ml-1 mr-1 h-8 w-8 rounded py-1"
@@ -27,7 +27,7 @@ const MobileNav = () => {
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
+          viewBox="0 0 18 18"
           fill="currentColor"
           className="text-gray-900 dark:text-gray-100"
         >
