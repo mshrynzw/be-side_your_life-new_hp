@@ -17,6 +17,14 @@ const CustomLink = ({ href, ...rest }) => {
     return <a href={href} {...rest} />
   }
 
+  if (href.endsWith('.mp3')) {
+    return (
+      <div className="flex justify-center">
+        <audio controls autoPlay src={href} />
+      </div>
+    )
+  }
+
   return <a target="_blank" rel="noopener noreferrer" href={href} {...rest} />
 }
 
