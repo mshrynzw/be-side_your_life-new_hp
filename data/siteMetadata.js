@@ -1,20 +1,9 @@
 const siteMetadata = {
-  title: 'Be-Side Your Life !!',
-  author: 'Be-Side Your Life !!',
-  headerTitle: 'Be-Side Your Life !!',
+  title: 'Be-Side Your Life !',
+  author: 'Be-Side Your Life !',
+  headerTitle: 'Be-Side Your Life !',
   description: `
-    ラジオを中心に活動する３人の放送作家、石川昭人･ホンマトシヒコ･ぶるんぶるん平田、
-    そして、３人の仕事仲間であるラジオディレクターの生江龍太郎、
-    小林順(コバジュン)･稲垣典行(イナーキー)による、“インターネット放送局で”す！
-    
-    2006年05月から、ポッドキャスティング(※)番組
-    『石川･ホンマ･ぶるんのBe-Side Your Life！』(通称:ビーサイ)の配信を開始し、
-    2009年からは、『ビーサイ』の番組テイストを発展させた
-    映像コンテンツ『ビーサイTV』を配信を開始します！
-    
-    ※「ポッドキャスティング」とは、パソコンさえあれば、いつでも誰でも聴ける、いわば「ラジオ番組」！
-    パソコンだけでなく、iPodなどの音声ファイルプレーヤーでも
-    お好きな時間にお好きな場所で、『ビーサイ』をお楽しみ頂けます！
+    An Internet broadcasting station run by three broadcast writers, Akihito Ishikawa, Toshihiko Honma, Burun Burun Hirata and Noritaka Miura, who are mainly active in radio.
   `,
   language: 'ja',
   theme: 'system', // system, dark or light
@@ -40,7 +29,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
