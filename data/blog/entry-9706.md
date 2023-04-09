@@ -1,0 +1,9 @@
+---
+title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.452-3
+date: 2015-01-03
+tags: ['2015年', '2015年01月']
+draft: false
+summary: 今日はスタッフみんなで新年会。終了時間夜10時。ここ有楽町・日比谷周辺で、こんな時期に、ましてやこの時間に営業している飲み屋などあるのか？？？
+---
+
+http://project-phi.ddo.jp/ishikawa/ishikawa452_3.mp3

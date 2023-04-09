@@ -1,0 +1,9 @@
+---
+title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.83-2
+date: 2007-12-04
+tags: ['2007年', '2007年12月']
+draft: false
+summary: こちらの配信のころには、野球の北京五輪出場は決定しているのだろうか！？カープ新井選手の４番起用に、狂喜乱舞かと思いきや、ぶるん氏・・・意外と冷静でした。新井選手の活躍はまだまだなようです。タイガース行っちゃうからか！？NAMAE
+---
+
+http://project-phi.ddo.jp/ishikawa/ishikawa083_2.mp3

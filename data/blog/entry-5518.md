@@ -1,0 +1,9 @@
+---
+title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.127-3
+date: 2008-10-08
+tags: ['2008年', '2008年10月']
+draft: false
+summary: 次回配信も、休日にもかかわらずバッチリ収録予定のビーサイ！！バンド活動も開始するのかしないのか！？そして今年の秋の学園祭お呼ばれのお話しなんかもオタノシミニ。NAMAE
+---
+
+http://project-phi.ddo.jp/ishikawa/ishikawa127_3.mp3
