@@ -1,6 +1,6 @@
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
-# Tailwind Nextjs Starter Blog
+# Tailwind Nextjs Starter Podcast
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/network/)
@@ -19,22 +19,22 @@ Feature request? Check the past discussions to see if it has been brought up pre
 
 ## Examples
 
-- [Demo Blog](https://tailwind-nextjs-starter-blog.vercel.app/) - this repo
+- [Demo Podcast](https://tailwind-nextjs-starter-blog.vercel.app/) - this repo
 - [My personal blog](https://www.timlrx.com) - modified to auto-generate blog posts with dates
 - [Aloisdg's cookbook](https://tambouille.vercel.app/) - with pictures and recipes!
 - [GautierArcin's demo with next translate](https://tailwind-nextjs-starter-blog-seven.vercel.app/) - includes translation of mdx posts, [source code](https://github.com/GautierArcin/tailwind-nextjs-starter-blog/tree/demo/next-translate)
 - [David Levai's digital garden](https://davidlevai.com/) - customized design and added email subscriptions
 - [Thinh's Corner](https://thinhcorner.com/) - [customized layout](https://github.com/Th1nhNg0/th1nhng0.vercel.app/blob/5e73a420828d82f01e7147512a2c3273c4ec19f8/layouts/PostLayout.js) with sticky side table of contents
-- [Leo's Blog](https://leohuynh.dev) - Tuan Anh Huynh's personal site. Add Snippets Page, Author Profile Card, Image Lightbox, ...
+- [Leo's Podcast](https://leohuynh.dev) - Tuan Anh Huynh's personal site. Add Snippets Page, Author Profile Card, Image Lightbox, ...
 - [thvu.dev](https://thvu.dev) - Added `mdx-embed`, view count, reading minutes and more.
 - [fiqrychoerudin.dev](https://www.fiqrychoerudin.dev/) - simple portfolio.
 - [irvin.dev](https://www.irvin.dev/) - Irvin Lin's personal site. Added YouTube embedding.
 - [KirillSo.com](https://www.kirillso.com/) - Personal blog & website.
-- [ghali.dev](https://ghali.dev) - Cyril's Blog
-- [DevBoy Blog](https://devboy.vercel.app/) - M.Reza's personal blog
+- [ghali.dev](https://ghali.dev) - Cyril's Podcast
+- [DevBoy Podcast](https://devboy.vercel.app/) - M.Reza's personal blog
 - [slightlysharpe.com](https://slightlysharpe.com) - [Tincre's](https://tincre.com) main company blog
 - [blog.b00st.com](https://blog.b00st.com) - [b00st.com's](https://b00st.com) main music promotion blog
-- [astrosaurus.me](https://astrosaurus.me/) - Ephraim Atta-Duncan's Personal Blog
+- [astrosaurus.me](https://astrosaurus.me/) - Ephraim Atta-Duncan's Personal Podcast
 - [dhanrajsp.me](https://dhanrajsp.me/) - Dhanraj's personal site and blog.
 - [blog.r00ks.io](https://blog.r00ks.io/) - Austin Rooks's personal blog ([source code](https://github.com/Austionian/blog.r00ks)).
 - [honghong.me](https://honghong.me) - Tszhong's personal website ([source code](https://github.com/tszhong0411/home))
@@ -44,7 +44,7 @@ Feature request? Check the past discussions to see if it has been brought up pre
 - [einargudni.com](https://www.einargudni.com) - with a customized theme, command pallette and more ([source code](https://github.com/einargudnig/einargudni.com))
 - [bpiggin.com](https://www.bpiggin.com) - Ben Piggin's personal blog
 - [maqib.cn](https://maqib.cn) - A blog of Chinese front-end developers 狂奔小马的博客 ([源码](https://github.com/maqi1520/nextjs-tailwind-blog))
-- [ambilena.com](https://ambilena.com/) - Electronic Music Blog & imprint for upcoming musicians.
+- [ambilena.com](https://ambilena.com/) - Electronic Music Podcast & imprint for upcoming musicians.
 - [kittan.ru](https://www.kittan.ru/) - Kittanb's personal blog about linux ([source code](https://github.com/kittanb/blog))
 - [nchristopher.me](https://nchristopher.me) - Nicholas Christopher's personal website and blog ([source code](https://github.com/nchristopher/blog))
 - [dalelarroder.com](https://dalelarroder.com) - Dale Larroder's personal website and blog ([source code](https://github.com/dlarroder/dalelarroder))
@@ -88,7 +88,7 @@ I wanted it to be nearly as feature-rich as popular blogging templates like [bea
 - Flexible data retrieval with [mdx-bundler](https://github.com/kentcdodds/mdx-bundler)
 - Support for tags - each unique tag will be its own page
 - Support for multiple authors
-- Blog templates
+- Podcast templates
 - TOC component
 - Support for nested routing of blog posts
 - Newsletter component with support for mailchimp, buttondown, convertkit, klaviyo, revue, and emailoctopus
@@ -211,12 +211,12 @@ Here's an example of a post's frontmatter:
 
 ```
 ---
-title: 'Introducing Tailwind Nexjs Starter Blog'
+title: 'Introducing Tailwind Nexjs Starter Podcast'
 date: '2021-01-12'
 lastmod: '2021-01-18'
 tags: ['next-js', 'tailwind', 'guide']
 draft: false
-summary: 'Looking for a performant, out of the box template, with all the best in web technology to support your blogging needs? Checkout the Tailwind Nextjs Starter Blog template.'
+summary: 'Looking for a performant, out of the box template, with all the best in web technology to support your blogging needs? Checkout the Tailwind Nextjs Starter Podcast template.'
 images: ['/static/images/canada/mountains.jpg', '/static/images/canada/toronto.jpg']
 authors: ['default', 'sparrowhawk']
 layout: PostLayout

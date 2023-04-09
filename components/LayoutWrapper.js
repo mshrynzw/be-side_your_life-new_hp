@@ -6,8 +6,11 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
+import { useRouter } from 'next/router'
 
 const LayoutWrapper = ({ children }) => {
+  const router = useRouter()
+
   return (
     <SectionContainer>
       <div className="flex h-screen flex-col justify-between">
@@ -36,15 +39,21 @@ const LayoutWrapper = ({ children }) => {
           </div>
           <div className="flex items-center text-base leading-5">
             <div className="hidden sm:block">
-              {headerNavLinks.map((link) => (
-                <Link
-                  key={link.title}
-                  href={link.href}
-                  className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
-                >
-                  {link.title}
-                </Link>
-              ))}
+              {headerNavLinks.map((link) =>
+                router.pathname.match(link.title.toLowerCase()) ? (
+                  <span className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4">
+                    {link.title}
+                  </span>
+                ) : (
+                  <Link
+                    key={link.title}
+                    href={link.href}
+                    className="p-1 font-medium text-gray-900 underline dark:text-gray-100 sm:p-4"
+                  >
+                    {link.title}
+                  </Link>
+                )
+              )}
             </div>
             <ThemeSwitch />
             <MobileNav />
