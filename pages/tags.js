@@ -22,21 +22,23 @@ export default function Tags({ tags }) {
             Tags
           </h1>
         </div>
-        <div className="flex max-w-lg flex-wrap">
-          {Object.keys(tags).length === 0 && 'No tags found.'}
-          {sortedTags.map((t) => {
-            return (
-              <div key={t} className="mb-2 mr-5 mt-2">
-                <Tag text={t} />
-                <Link
-                  href={`/tags/${kebabCase(t)}`}
-                  className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
-                >
-                  {` (${tags[t]})`}
-                </Link>
-              </div>
-            )
-          })}
+        <div className="container">
+          <div className="m-4 flex flex-wrap">
+            {Object.keys(tags).length === 0 && 'No tags found.'}
+            {sortedTags.map((t) => {
+              return (
+                <div key={t} className="mb-2 mr-5 mt-2">
+                  <Tag text={t} />
+                  <Link
+                    href={`/tags/${kebabCase(t)}`}
+                    className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
+                  >
+                    {` (${tags[t]})`}
+                  </Link>
+                </div>
+              )
+            })}
+          </div>
         </div>
       </div>
     </>
