@@ -8,7 +8,7 @@ const ContentSecurityPolicy = `
   script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
-  media-src http://project-phi.ddo.jp;
+  media-src "'self'", 'data:', 'blob:'];
   connect-src *;
   font-src 'self';
   frame-src giscus.app
