@@ -1,4 +1,4 @@
-const programsData = [
+const programData = [
   {
     title: 'Be-Side Your Life !',
     description: `An Internet broadcasting station run 
@@ -21,4 +21,4 @@ const programsData = [
   },
 ]
 
-export default programsData
+export default programData
