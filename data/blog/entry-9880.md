@@ -1,0 +1,9 @@
+---
+title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.507-2
+date: Feb 02, 2016
+tags: ['2016', 'Feb 2016', 'vol.507']
+draft: false
+summary: ずーっとお酒を飲んでるISHIKAWAさん＆ぶるんさん。理解できないホンマさん。ISHII
+---
+
+http://project-phi.ddo.jp/ishikawa/ishikawa507_2.mp3
