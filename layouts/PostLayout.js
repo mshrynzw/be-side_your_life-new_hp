@@ -5,19 +5,17 @@ import { BlogSEO } from '@/components/SEO'
 import Image from '@/components/Image'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
-
-const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
-// const discussUrl = (slug) =>
-//   `https://mobile.twitter.com/search?q=${encodeURIComponent(
-//     `${siteMetadata.siteUrl}/blog/${slug}`
-//   )}`
+import PostIcon from '@/components/post-icons'
 
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { slug, fileName, date, title, images, tags } = frontMatter
+  const hash_title = 'vol' + title.replace('石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.', '')
+  const search_href =
+    'https://twitter.com/hashtag/%E3%83%93%E3%83%BC%E3%82%B5%E3%82%A4?src=hashtag_click&f=live'
+  const post_href = `https://twitter.com/intent/tweet?hashtags=ビーサイ,${hash_title}`
 
   return (
     <SectionContainer>
@@ -50,7 +48,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             className="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
-            <dl className="pb-10 pt-6 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
+            <dl className="py-4 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
               <dt className="sr-only">Authors</dt>
               <dd>
                 <ul className="flex justify-center space-x-8 sm:space-x-12 xl:block xl:space-x-0 xl:space-y-8">
@@ -85,15 +83,21 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 </ul>
               </dd>
             </dl>
-            <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
-              <div className="prose max-w-none pb-8 pt-10 dark:prose-dark">{children}</div>
-              <div className="pb-6 pt-6 text-sm text-gray-700 dark:text-gray-300">
-                <div className="flex items-center justify-center">
-                  <Link
-                    href="https://twitter.com/hashtag/%E3%83%93%E3%83%BC%E3%82%B5%E3%82%A4?src=hashtag_click"
-                    rel="nofollow"
-                  >
-                    {'Discuss on Twitter'}
+            <div className="xl:col-span-3 xl:row-span-2 xl:pb-0">
+              <div className="prose max-w-none pb-2 pt-4 dark:prose-dark">{children}</div>
+              <div className="pb-4 pt-2 text-sm text-gray-700 dark:text-gray-300">
+                <div className="flex flex-row justify-around">
+                  <Link href={search_href} rel="nofollow">
+                    <div className="flex w-32 flex-row items-center justify-around rounded-md bg-blue-500 px-6 py-1 text-white shadow-md shadow-blue-500/50 hover:bg-blue-500/80">
+                      <PostIcon kind="twitter" size="6" />
+                      <div className="font-extrabold">Search</div>
+                    </div>
+                  </Link>
+                  <Link href={post_href} rel="nofollow">
+                    <div className="flex w-32 flex-row items-center justify-around rounded-md bg-blue-500 px-6 py-1 text-white shadow-md shadow-blue-500/50 hover:bg-blue-500/80">
+                      <PostIcon kind="twitter" size="6" />
+                      <div className="font-extrabold">Post</div>
+                    </div>
                   </Link>
                 </div>
               </div>
@@ -101,11 +105,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <footer>
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
                 {tags && (
-                  <div className="py-4 xl:py-8">
-                    <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                  <div className="py-2 xl:py-4">
+                    <h2 className="flex justify-center text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
                       Tag
                     </h2>
-                    <div className="flex flex-wrap">
+                    <div className="flex flex-wrap justify-center">
                       {tags.map((tag) => (
                         <Tag key={tag} text={tag} />
                       ))}
@@ -113,14 +117,16 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   </div>
                 )}
                 {(next || prev) && (
-                  <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
+                  <div className="flex justify-between xl:block xl:space-y-4 xl:py-4">
                     {prev && (
                       <div>
                         <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                          Previous Article
+                          Prev Article
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/blog/${prev.slug}`}>{prev.title}</Link>
+                          <Link href={`/blog/${prev.slug}`}>
+                            {prev.title.replace('石川・ホンマ・ぶるんのBe-SIDE Your Life! ', '')}
+                          </Link>
                         </div>
                       </div>
                     )}
@@ -130,7 +136,9 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           Next Article
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                          <Link href={`/blog/${next.slug}`}>{next.title}</Link>
+                          <Link href={`/blog/${next.slug}`}>
+                            {next.title.replace('石川・ホンマ・ぶるんのBe-SIDE Your Life! ', '')}
+                          </Link>
                         </div>
                       </div>
                     )}
@@ -142,7 +150,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   href="/podcast"
                   className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                 >
-                  &larr; Back to the blog
+                  &larr; Back
                 </Link>
               </div>
             </footer>
