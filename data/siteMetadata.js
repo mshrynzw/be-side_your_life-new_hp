@@ -5,7 +5,7 @@ const siteMetadata = {
   description: `
     An Internet broadcasting station run by three broadcast writers, Akihito Ishikawa, Toshihiko Honma, Burun Burun Hirata and Noritaka Miura, who are mainly active in radio.
   `,
-  language: 'ja',
+  language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://be-side-your-life.com',
   siteLogo: '/static/images/logo.png',
@@ -14,7 +14,7 @@ const siteMetadata = {
   email: 'biho@be-side.jp',
   twitter: 'https://twitter.com/be_side_jp',
   youtube: 'https://www.youtube.com/user/besidetv',
-  locale: 'ja',
+  locale: 'en-us',
   // TODO EDIT
   analytics: {
     // If you want to use an analytics provider you have to add it to the

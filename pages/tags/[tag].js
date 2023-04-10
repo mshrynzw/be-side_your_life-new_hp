@@ -42,7 +42,11 @@ export async function getStaticProps({ params }) {
 
 export default function Tag({ posts, tag }) {
   // Capitalize first letter and convert space to dash
-  const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+  let title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+  if (tag.match(/^vol/)) {
+    title = tag.replace('vol', 'vol.')
+  }
+
   return (
     <>
       <TagSEO
