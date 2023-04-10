@@ -9,26 +9,38 @@ linkedin:
 github:
 ---
 
-# SIGNAL 2 NOISE RATIO
+# S2N
+
+SIGNAL 2 NOISE RATIO
 
 ## Member
 
-- AKIHITO ISHIKAWA : ボーカル（Vo）
+- AKIHITO ISHIKAWA
 
-  BOØWY の『MARIONETTE』をきっかけとして中学生時代にロックに目覚めた。
+  ボーカル（Vo）。1974 年（昭和 49 年）10 月 21 日生まれ。埼玉県さいたま市（旧浦和市）出身。BOØWY の『MARIONETTE』をきっかけとして中学生時代にロックに目覚めた。
   また、ライブパフォーマンスなど電気グルーヴからも影響を受けている。20 代半ばにギターを購入するも挫折した過去がある。
 
-- TOSHIHIKO HONMA : ギター（Gt）
+  - [Wikipedia](https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E6%98%AD%E4%BA%BA)
 
-  音楽に興味を持ったきっかけは D'ERLANGER。
+- TOSHIHIKO HONMA
+
+  ギター（Gt）。1966 年（昭和 41 年）6 月 2 日生まれ。山形県酒田市出身のフリーランスの放送作家。音楽に興味を持ったきっかけは D'ERLANGER。
   X JAPAN、ZI:KILL や LUNA SEA などから影響を受けた。2006 年にはロックバンド「Lunch in Tika」を結成するが後に解散した。アナルは開発された。
 
-- OSAMU "ぶるん" HIRATA : ベース（Ba）
+  - [Wikipedia](https://ja.wikipedia.org/wiki/%E6%9C%AC%E9%96%93%E4%BF%8A%E5%BD%A6) / [Twitter](https://twitter.com/besideHONMAlife) / [Instagram](https://www.instagram.com/honmatoshihiko/)
 
-  中学生時代にライブハウスへ通い始め、それに伴いベースを始めた。
-  かまいたちや JUN SKY WALKER(S)、THE STREET BEATS から影響を受けた。S2N で初めてステージに立った。
+- OSAMU "ぶるん" HIRATA
 
-- NORITAKA MIURA : 指揮者（Con）
+  ベース（Ba）。1974 年（昭和 49 年）2 月 3 日生まれ。茨城県水戸市出身のフリーランスの放送作家。中学生時代にライブハウスへ通い始め、それに伴いベースを始めた。
+  かまいたちや JUN SKY WALKER(S)、THE STREET BEATS から影響を受けた。S2N で初めてステージに立ち、親友である HONMA のアナル開発を止めようとした。
+
+  - [Wikipedia](https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%94%B0%E6%B2%BB) / [Twitter](https://twitter.com/buruuuuun)
+
+- NORITAKA MIURA
+
+  指揮者（Con）。1986 年（昭和 61）9 月 27 日年生まれ。福島県郡山市出身のラジオディレクター。
+
+  - [Wikipedia](https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E6%86%B2%E9%AB%98) / [Twitter](https://twitter.com/buruuuuun) / [Facebook](https://www.facebook.com/noritaka.miura.35/)
 
 ## Goods
 
