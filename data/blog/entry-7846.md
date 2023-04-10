@@ -1,9 +1,0 @@
----
-title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.167-1
-date: 2009-07-13
-tags: ['2009年', '2009年07月']
-draft: false
-summary: 注目の！？「みちのく握手会」企画の全貌が明らかに・・・。なぜにメンバー全員が歓迎ムードにならないのか・・・全行程推定１０００キロオーバーの長旅になりそう。NAMAE
----
-
-http://project-phi.ddo.jp/ishikawa/ishikawa167_1.mp3

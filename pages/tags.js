@@ -15,11 +15,11 @@ export default function Tags({ tags }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
   return (
     <>
-      <PageSEO title={`Tags - ${siteMetadata.author}`} description="Things I blog about" />
+      <PageSEO title={`Tag - ${siteMetadata.author}`} description="Things I blog about" />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pb-8 pt-6 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-[#AE0B11] sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Tags
+            Tag
           </h1>
         </div>
         <div className="container">

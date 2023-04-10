@@ -1,9 +1,0 @@
----
-title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.284-1
-date: 2011-10-12
-tags: ['2011年', '2011年10月']
-draft: false
-summary: ひさ～～～しぶりの「学園祭」！キャンパスライフに憧れを禁じえないオーバー３０たちがほえまくります。しかし、ホンマさんは・・・NAMAE
----
-
-http://project-phi.ddo.jp/ishikawa/ishikawa284_1.mp3
