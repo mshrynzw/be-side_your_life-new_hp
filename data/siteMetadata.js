@@ -10,7 +10,7 @@ const siteMetadata = {
   siteUrl: 'https://be-side-your-life.com',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/be-side.jpg',
   email: 'biho@be-side.jp',
   twitter: 'https://twitter.com/be_side_jp',
   youtube: 'https://www.youtube.com/user/besidetv',
