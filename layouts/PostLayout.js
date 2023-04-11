@@ -86,7 +86,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <div className="xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="prose max-w-none pb-2 pt-4 dark:prose-dark">{children}</div>
               <div className="pb-4 pt-2 text-sm text-gray-700 dark:text-gray-300">
-                <div className="flex flex-row justify-around">
+                <div className="flex flex-row justify-around sm:justify-center sm:space-x-8">
                   <Link href={search_href} rel="nofollow">
                     <div className="flex w-32 flex-row items-center justify-around rounded-md bg-blue-500 px-6 py-1 text-white shadow-md shadow-blue-500/50 hover:bg-blue-500/80">
                       <PostIcon kind="twitter" size="6" />
