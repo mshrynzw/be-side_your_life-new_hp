@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Be-Side Your Life !',
   headerTitle: 'Be-Side Your Life !',
   description: `
-    An Internet broadcasting station run by three broadcast writers, Akihito Ishikawa, Toshihiko Honma, Burun Burun Hirata and Noritaka Miura, who are mainly active in radio.
+    Since 2006, an Internet broadcasting station run by three broadcast writers, Akihito Ishikawa, Toshihiko Honma, Burun Burun Hirata and Noritaka Miura, who are mainly active in radio.
   `,
   language: 'en-us',
   theme: 'system', // system, dark or light
