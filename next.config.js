@@ -8,7 +8,7 @@ const ContentSecurityPolicy = `
   script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com https://ssl.google-analytics.com https://www.googletagmanager.com https://plausible.io;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
-  media-src * data: blob:;
+  media-src * blob: data:;
   connect-src *;
   font-src 'self';
   frame-src googletagmanager.com
