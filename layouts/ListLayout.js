@@ -25,10 +25,10 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
           </h1>
           <div className="relative max-w-lg">
             <input
-              aria-label="Search articles"
+              aria-label="Search episodes"
               type="text"
               onChange={(e) => setSearchValue(e.target.value)}
-              placeholder="Search articles"
+              placeholder="Search episodes"
               className="block w-full rounded-md border border-gray-300 bg-white px-4 py-2 text-gray-900 focus:border-primary-500 focus:ring-primary-500 dark:border-gray-900 dark:bg-gray-800 dark:text-gray-100"
             />
             <svg
@@ -45,6 +45,11 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                 d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
               />
             </svg>
+          </div>
+          <div className="flex justify-end">
+            <div className="font-semibold text-gray-500 dark:text-gray-400">
+              {filteredBlogPosts.length} search results
+            </div>
           </div>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">

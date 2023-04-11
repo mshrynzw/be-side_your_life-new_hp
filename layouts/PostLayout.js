@@ -132,10 +132,10 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     )}
                     {next && (
                       <div>
-                        <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                        <h2 className="text-right text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
                           Next Article
                         </h2>
-                        <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
+                        <div className="text-right text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
                           <Link href={`/blog/${next.slug}`}>
                             {next.title.replace('石川・ホンマ・ぶるんのBe-SIDE Your Life! ', '')}
                           </Link>
