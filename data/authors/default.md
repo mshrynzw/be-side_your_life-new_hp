@@ -20,7 +20,7 @@ SIGNAL 2 NOISE RATIO
   ボーカル（Vo）。1974 年（昭和 49 年）10 月 21 日生まれ。埼玉県さいたま市（旧浦和市）出身。BOØWY の『MARIONETTE』をきっかけとして中学生時代にロックに目覚めた。
   また、ライブパフォーマンスなど電気グルーヴからも影響を受けている。20 代半ばにギターを購入するも挫折した過去がある。
 
-  - [Wikipedia](https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E6%98%AD%E4%BA%BA)
+  - [Wikipedia](https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E6%98%AD%E4%BA%BA) / [Twitter](https://twitter.com/be_side_jp) / [Instagram](https://www.instagram.com/be_side15/)
 
 - TOSHIHIKO HONMA
 
