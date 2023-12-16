@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.257-2
-date: April 28, 2011
+date: April 6, 2011
 tags: ['2011', 'April 2011', 'vol.257']
 draft: false
 summary: ネタもビーサイならでは～～～気になるあのCMもこねくりまわしております。ホンマさんはちゃんと、フリップを目の前に差し出しておりますので。NAMAE

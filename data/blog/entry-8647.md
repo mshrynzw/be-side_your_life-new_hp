@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.247-1
-date: January 27, 2011
+date: January 20, 2011
 tags: ['2011', 'January 2011', 'vol.247']
 draft: false
 summary: これは！とジャージ姿で現れるホンマさん。これはこれは、意外とアーティスト的なシャレオツなジャージですが・・・NAMAE

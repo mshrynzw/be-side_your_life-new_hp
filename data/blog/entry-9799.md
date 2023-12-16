@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.482-3
-date: August 30, 2015
+date: August 2, 2015
 tags: ['2015', 'August 2015', 'vol.482']
 draft: false
 summary: 知らねぇよ人生相談！ネットがざわついた日！ご意見番ハリー？盛りだくさんです。NANJO

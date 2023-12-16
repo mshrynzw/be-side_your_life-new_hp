@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.147-2
-date: February 25, 2009
+date: February 24, 2009
 tags: ['2009', 'February 2009', 'vol.147']
 draft: false
 summary: 週末は、ビーサイHPを要チェック！DVDが続々とリスナーの元に届いております！ご覧になった方は、賛辞批評異論反論・・・なんでもお待ちしておりますのでお買い求め頂いた方はどうぞ感想を番組まで。NAMAE

@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.250-3
-date: February 25, 2011
+date: February 17, 2011
 tags: ['2011', 'February 2011', 'vol.250']
 draft: false
 summary: ぶるん「おれベースむいてねぇわ！」石川　「おれボーカルむいてねぇわ！」・・・スタジオに入ってくるなり早くも決断を下す２人！NAMAE

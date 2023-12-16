@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.484-1
-date: August 30, 2015
+date: August 9, 2015
 tags: ['2015', 'August 2015', 'vol.484']
 draft: false
 summary: 世間ではお盆休みなのにビーサイは通常営業。さらにビーサイメンバー、大忙しです。NANJO

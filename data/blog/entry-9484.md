@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.388-2
-date: October 25, 2013
+date: October 9, 2013
 tags: ['2013', 'October 2013', 'vol.388']
 draft: false
 summary: 本番前・・・ホンマさんからは 「笑っていいとも・能年玲奈出演情報」 がメールにて送られてきました。そのことについては、本編ではまったく！触れてません。NAMAE  

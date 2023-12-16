@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.207-2
-date: April 29, 2010
+date: April 20, 2010
 tags: ['2010', 'April 2010', 'vol.207']
 draft: false
 summary: そういえば、ホンマさんは山形出身なのに方言が全くと言っていいほど出ないな・・・どうやら『山形弁』ではなく『庄内弁』を操るらしいとのこと。気になりはしないが・・・NAMAE

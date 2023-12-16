@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.476-1
-date: June 29, 2015
+date: June 13, 2015
 tags: ['2015', 'June 2015', 'vol.476']
 draft: false
 summary: 今回のビーサイはアラフォー紳士とは思えない馬鹿な話から。NANJO

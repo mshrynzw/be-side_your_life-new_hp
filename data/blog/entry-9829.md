@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.491-3
-date: October 26, 2015
+date: October 6, 2015
 tags: ['2015', 'October 2015', 'vol.491']
 draft: false
 summary: レギュラーコーナーをお送り。柴田さんのコーナーが一番好きです。金髪性欲農家にも動きが！？ISHII

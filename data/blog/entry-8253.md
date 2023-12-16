@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.210-1
-date: May 26, 2010
+date: May 5, 2010
 tags: ['2010', 'May 2010', 'vol.210']
 draft: false
 summary: 石川サンの意外なる告白・・・霊感・・・あら、ぶるんさんにも・・・?スピリチュアルポッドキャストがここに！！NAMAE

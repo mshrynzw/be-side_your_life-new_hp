@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.165-3
-date: July 29, 2009
+date: July 1, 2009
 tags: ['2009', 'July 2009', 'vol.165']
 draft: false
 summary: ビーサイDVDの詳細が続々登場！！！デキはかなりのモノ！是非ともこの夏のお小遣いを貯めておいて欲しい一品です。NAMAE

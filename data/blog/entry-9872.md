@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.505-1
-date: January 22, 2016
+date: January 8, 2016
 tags: ['2016', 'January 2016', 'vol.505']
 draft: false
 summary: 年明け初収録。ホンマさんは年明け早々新発見！ISHIKAWAさんは正月旅行に行った話。ISHII

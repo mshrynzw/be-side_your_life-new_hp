@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.474-3
-date: June 29, 2015
+date: June 6, 2015
 tags: ['2015', 'June 2015', 'vol.474']
 draft: false
 summary: 10周年記念企画。なんとも無謀なビジョンを考え始めています。NANJO

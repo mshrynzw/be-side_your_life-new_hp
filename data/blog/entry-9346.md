@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.350-3
-date: January 31, 2013
+date: January 17, 2013
 tags: ['2013', 'January 2013', 'vol.350']
 draft: false
 summary: 雪の成人式～～帰りはぐっしょりでお三方も帰宅です。あ、ホンマさんの実家情報が・・・

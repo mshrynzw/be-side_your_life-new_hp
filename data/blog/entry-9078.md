@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.303-1
-date: February 29, 2012
+date: February 17, 2012
 tags: ['2012', 'February 2012', 'vol.303']
 draft: false
 summary: ラジオに携わる者の習性なのか～～「ダジャレ」で何時間も悶々とする会議が日々行われている現実に驚愕してほしい！NAMAE

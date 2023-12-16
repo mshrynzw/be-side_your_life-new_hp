@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.162-2
-date: June 30, 2009
+date: June 9, 2009
 tags: ['2009', 'June 2009', 'vol.162']
 draft: false
 summary: 「ビーサイTV見てる？？」絶賛配信中のビーサイTVですが皆さんちゃんとチェックはしていますか？？今回は、河川敷のグラウンドが舞台になっていますから！NAMAE
