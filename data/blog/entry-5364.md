@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.76-2
-date: October 16, 2007
+date: October 31, 2007
 tags: ['2007', 'October 2007', 'vol.76']
 draft: false
 summary: ビーサイ学園祭ツアー開催。ツアータイトルは随時募集中ですのでメール待ってます。とにかく、１０月末からは毎週末になぜか「大学」に行くビーサイメンバーです。NAMAE

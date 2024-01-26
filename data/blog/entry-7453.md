@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.144-1
-date: February 2, 2009
+date: February 18, 2009
 tags: ['2009', 'February 2009', 'vol.144']
 draft: false
 summary: なんと２月３日はぶるんサンのお誕生日だとか…よってアイドル番組ばりにサプライズのケーキは用意…するつもりでしたが！？するわけもなく…NAMAE

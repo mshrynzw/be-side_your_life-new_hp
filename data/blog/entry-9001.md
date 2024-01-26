@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.291-1
-date: December 30, 2011
+date: December 16, 2011
 tags: ['2011', 'December 2011', 'vol.291']
 draft: false
 summary: ホンマさんのアイドル「こじらせ」具合が止まらない!!!いや、これはリアルです。音楽性ではなくアイドル性として！なのか・・・NAMAE

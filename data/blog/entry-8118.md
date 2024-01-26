@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.196-1
-date: February 25, 2010
+date: February 19, 2010
 tags: ['2010', 'February 2010', 'vol.196']
 draft: false
 summary: シグレシ「再始動」（再々始動！？）なにやら、バンド練習の打ち合わせなんかしつつの全員集合。月曜の夜・・・東京地方は雪が・・・NAMAE

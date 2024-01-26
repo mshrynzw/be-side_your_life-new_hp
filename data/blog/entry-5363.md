@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.76-1
-date: October 15, 2007
+date: October 31, 2007
 tags: ['2007', 'October 2007', 'vol.76']
 draft: false
 summary: 意外や意外な「マンガトーク」からスタート。そんなとあるマンガを銀座有楽町に買い出しに走らせるビーサイ。そして、またもや、子供の頃は想像もしていなかった３０代っぷりを発揮する石川サンのトークからスタートです。NAMAE
