@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.203-1
-date: March 17, 2010
+date: March 30, 2010
 tags: ['2010', 'March 2010', 'vol.203']
 draft: false
 summary: そう・・・そういうことだったのです！！リアル「激裏西川オールナイトニッポン」リターンズ！裏話満載予定です。そうだったのです！！NAMAE

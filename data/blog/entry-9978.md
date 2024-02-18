@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.535-2
-date: August 26, 2016
+date: August 6, 2016
 tags: ['2016', 'August 2016', 'vol.535']
 draft: false
 summary: ぶるんさんがいるので、人生相談のコーナーをじっくりとお送りします、ずーっとどうでもいい話してます。ISHII

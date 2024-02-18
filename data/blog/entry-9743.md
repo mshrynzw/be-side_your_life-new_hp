@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.465-1
-date: April 25, 2015
+date: April 4, 2015
 tags: ['2015', 'April 2015', 'vol.465']
 draft: false
 summary: 「福山雅治 魂のラジオ」最終回を終えての石川レポートNANJO

@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.253-1
-date: March 3, 2011
+date: March 23, 2011
 tags: ['2011', 'March 2011', 'vol.253']
 draft: false
 summary: 急激な寒さ！！三寒四温～～で、ぶるんサン・・・週末は寝込んでいただようで鼻声。ついでに、スタジオのマイクもちょっとリニューアルでお聴き心地がいつもと違います。おわかりになります？？NAMAE

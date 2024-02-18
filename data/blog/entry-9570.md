@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.411-1
-date: March 13, 2014
+date: March 26, 2014
 tags: ['2014', 'March 2014', 'vol.411']
 draft: false
 summary: スタジオお引越しの季節の「ためためどり」対応！！！なので、中３日の登板収録となっております。石川さんは改編でバタバタしとります・・・ＮＡＭＡＥ

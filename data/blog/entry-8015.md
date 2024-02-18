@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.184-3
-date: November 11, 2009
+date: November 25, 2009
 tags: ['2009', 'November 2009', 'vol.184']
 draft: false
 summary: 世界のビーサイ。いや、いろいろな所で聴いてくれているもんすね。モザンビーク土産には感謝！！NAMAE

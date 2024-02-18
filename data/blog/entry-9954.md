@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.528-2
-date: June 13, 2016
+date: June 21, 2016
 tags: ['2016', 'June 2016', 'vol.528']
 draft: false
 summary: 引き続き、くりぃむANNのお話。ビーサイリスナーもたくさん聞いていたようで、メールも頂いてます。ISHII

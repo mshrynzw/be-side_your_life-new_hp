@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.177-3
-date: September 24, 2009
+date: September 29, 2009
 tags: ['2009', 'September 2009', 'vol.177']
 draft: false
 summary: イナズマSP・その３「リンドバーグ世代の躍進」満喫シマクリスティ！だったのではないか！？疑惑のお三方・・・お仕事もあったのですよお仕事も・・・そんなお話は４本目へ。NAMAE

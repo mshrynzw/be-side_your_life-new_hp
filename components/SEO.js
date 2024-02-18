@@ -9,6 +9,8 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
       <title>{title}</title>
       <meta name="robots" content="follow, index" />
       <meta name="description" content={description} />
+      <meta name="keywords" content="ビーサイ,Podcast,石川昭人,本間俊彦,ぶるんぶるん" />
+      <meta charset="utf-8" />
       <meta property="og:url" content={`${siteMetadata.siteUrl}${router.asPath}`} />
       <meta property="og:type" content={ogType} />
       <meta property="og:site_name" content={siteMetadata.title} />

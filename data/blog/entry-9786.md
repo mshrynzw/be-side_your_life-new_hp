@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.478-2
-date: July 27, 2015
+date: July 6, 2015
 tags: ['2015', 'July 2015', 'vol.478']
 draft: false
 summary: 10周年イヤージングル多くの方にお送りいただきありがとうございました。今回もいくつかご紹介！！NANJO

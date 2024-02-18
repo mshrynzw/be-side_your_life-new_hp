@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.320-2
-date: June 21, 2012
+date: June 26, 2012
 tags: ['2012', 'June 2012', 'vol.320']
 draft: false
 summary: 「このままではラジオが嫌いになっちゃうよ！」が口癖の最近の石川サン・・・お疲れなようですね・・・NAMAE

@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.482-1
-date: August 30, 2015
+date: August 2, 2015
 tags: ['2015', 'August 2015', 'vol.482']
 draft: false
 summary: ビーサイ10周年企画始動！？果たしてどうなるのか？詳しくは番組で！！！NANJO

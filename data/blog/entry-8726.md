@@ -1,6 +1,6 @@
 ---
 title: 石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.255-1
-date: March 17, 2011
+date: March 30, 2011
 tags: ['2011', 'March 2011', 'vol.255']
 draft: false
 summary: ３月２２日の収録です。余震が続く状態ですが、ビーサイには様々がメールがっ！まあ、お三方はいつも通りですよ。NAMAE
