@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import Link from 'next/link'
+import AudioPlayer from '@/components/AudioPlayer'
 
 const CustomLink = ({ href, ...rest }) => {
   const isInternalLink = href && href.startsWith('/')
@@ -20,6 +21,8 @@ const CustomLink = ({ href, ...rest }) => {
   if (href.endsWith('.mp3')) {
     return (
       <div className="flex justify-center">
+        {/*<AudioPlayer href={href}/>*/}
+        <audio src={href} preload="metadata" />
         <a target="_blank" rel="noopener noreferrer" href={href} {...rest}>
           <div className="mx-1 h-12 w-12 rounded-md bg-orange-600 p-1 shadow-md shadow-orange-600/50 hover:bg-orange-600/80 sm:ml-4">
             <svg
