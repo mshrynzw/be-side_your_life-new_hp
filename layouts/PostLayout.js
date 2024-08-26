@@ -11,7 +11,7 @@ import PostIcon from '@/components/post-icons'
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { slug, fileName, date, title, images, tags } = frontMatter
+  const { slug, fileName, date, title, images, tags, summary } = frontMatter
   const hash_title = 'vol' + title.replace('石川・ホンマ・ぶるんのBe-SIDE Your Life! vol.', '')
   const search_href =
     'https://twitter.com/hashtag/%E3%83%93%E3%83%BC%E3%82%B5%E3%82%A4?src=hashtag_click&f=live'
@@ -85,6 +85,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </dl>
             <div className="xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="prose max-w-none pb-2 pt-4 dark:prose-dark">{children}</div>
+              <div className="px-4">{summary}</div>
               <div className="pb-4 pt-2 text-sm text-gray-700 dark:text-gray-300">
                 <div className="flex flex-row justify-around sm:justify-center sm:space-x-8">
                   <Link href={search_href} rel="nofollow">
