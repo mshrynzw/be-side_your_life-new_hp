@@ -44,7 +44,7 @@ export default function Blog({ post, authorDetails, prev, next }) {
   const { mdxSource, toc, frontMatter } = post
 
   return (
-    <>
+    <div className="bg-background-blur my-6 rounded-lg bg-white/10 p-12 backdrop-blur-md dark:bg-gray-900/50">
       {frontMatter.draft !== true ? (
         <MDXLayoutRenderer
           layout={frontMatter.layout || DEFAULT_LAYOUT}
@@ -65,6 +65,6 @@ export default function Blog({ post, authorDetails, prev, next }) {
           </PageTitle>
         </div>
       )}
-    </>
+    </div>
   )
 }

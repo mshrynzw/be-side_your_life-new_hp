@@ -43,7 +43,7 @@ export async function getStaticProps(context) {
 
 export default function PostPage({ posts, initialDisplayPosts, pagination }) {
   return (
-    <>
+    <div className="bg-background-blur my-6 rounded-lg bg-white/10 p-12 backdrop-blur-md dark:bg-gray-900/50">
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <ListLayout
         posts={posts}
@@ -51,6 +51,6 @@ export default function PostPage({ posts, initialDisplayPosts, pagination }) {
         pagination={pagination}
         title="Podcast"
       />
-    </>
+    </div>
   )
 }

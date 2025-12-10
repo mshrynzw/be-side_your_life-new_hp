@@ -18,7 +18,7 @@ const siteMetadata = {
   locale: 'ja',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
-    // content security policy in the `next.config.js` file.
+    // content security policy in the `next.config.ts` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
     plausibleDataDomain: 'be-side-your.life', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
@@ -33,7 +33,7 @@ const siteMetadata = {
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
-    // content security policy in the `next.config.js` file.
+    // content security policy in the `next.config.ts` file.
     // Select a provider and use the environment variables associated to it
     // https://vercel.com/docs/environment-variables
     provider: 'giscus', // supported providers: giscus, utterances, disqus

@@ -5,7 +5,7 @@ import { PageSEO } from '@/components/SEO'
 
 export default function Program() {
   return (
-    <>
+    <div className="bg-background-blur my-6 rounded-lg bg-white/10 p-12 backdrop-blur-md dark:bg-gray-900/50">
       <PageSEO title={`Program - ${siteMetadata.author}`} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pb-8 pt-6 md:space-y-5">
@@ -27,6 +27,6 @@ export default function Program() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }

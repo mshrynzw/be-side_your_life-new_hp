@@ -14,7 +14,7 @@ export async function getStaticProps() {
 export default function Tags({ tags }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
   return (
-    <>
+    <div className="bg-background-blur my-6 rounded-lg bg-white/10 p-12 backdrop-blur-md dark:bg-gray-900/50">
       <PageSEO title={`Tag - ${siteMetadata.author}`} description="Things I blog about" />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pb-8 pt-6 md:space-y-5">
@@ -41,6 +41,6 @@ export default function Tags({ tags }) {
           </div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
